@@ -5,11 +5,21 @@ body{
 }
 
 .container{
-  background-color: #02918c;
 
-} 
-.myfoliio{
   width: 1008px;
+  margin: 0 auto;
+
+}
+
+
+.container1{
+  height: 62px;
+}
+.myfoliio{
+  background-color: #02918c; 
+  text-align: left;
+  /* justify-content: space-between; */
+
   height: 62px;
 }
 
@@ -18,25 +28,32 @@ body{
   height: 100%;
 
 }
-.image-logo{
-  height: 700PX;
-  width: 100%;
+.logo{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 200px;
+  /* height: 700PX;
+  width: 100%; */
 }
 
 .about-me{
-  background-color:#02918c 46px bold;
+  /* background-color:#02918c 46px bold;
   width: 46px;
   font-weight: bold;
   margin-left: auto;
-  margin-right: auto;
-  justify-content: center;
-}
-.me{
+  margin-right: auto; */
   color: #02918c;
   text-align: center;
   height: 46px;
   font-weight: bold;
+
 }
+/* .me{
+  color: #02918c;
+  text-align: center;
+  height: 46px;
+  font-weight: bold;
+} */
 .texts{
   height: 16px;
   color:#7e8287;
